@@ -1,5 +1,6 @@
-Reach Bear Challenge Level 2
-Started with getting addresses using two terminals
+Reach Bear Challenge Level 2.
+Started with getting addresses using two terminals,
 one of the address failed whiteliste check and the other passed
-token was collected from the other 
+token was collected from the other.
+The wallet addresses was approved
 and it was successfully delivered to the other
